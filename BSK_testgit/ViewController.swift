@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     func setup() {
         print("hello")
         gitTestLabel.text = "TEST GIT"
+        //....
         
     }
 
